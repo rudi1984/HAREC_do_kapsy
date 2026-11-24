@@ -1,9 +1,9 @@
 # HAREC do kapsy – v0.7 beta
 
-Offline-first vzdělávací PWA. Není oficiálním produktem ČTÚ ani HamOtazky.cz.
+Offline-first vzdělávací PWA. 
 
 ## Data
-584 otázek třídy A filtrovaných z uživatelem dodaných souborů `hamtest-A_N.json` a `hamtest.sqlite3` ze služby HamOtazky.cz. Datový základ označen srpen 2025. Správné odpovědi a dvě alternativy byly převzaty beze změn z nahraného exportu. Kompletní odborné ověření proti ČTÚ 05/2026 ani oprávnění k veřejnému převzetí databázového obsahu nejsou dokončeny. Před veřejným vydáním ověřit licenci a aktuálnost.
+584 otázek třídy A filtrovaných ze souborů `hamtest-A_N.json` a `hamtest.sqlite3` ze služby HamOtazky.cz. Datový základ označen srpen 2025. Správné odpovědi a dvě alternativy byly převzaty beze změn z nahraného exportu. Kompletní odborné ověření proti ČTÚ 05/2026 ani oprávnění k veřejnému převzetí databázového obsahu nejsou dokončeny. Před veřejným vydáním ověřit licenci a aktuálnost.
 
 ## Nasazení
 Nahrát všechny soubory z balíčku do kořene GitHub Pages repozitáře, přepsat původní `index.html` a `sw.js`, neodstraňovat lokální data prohlížeče. `questions.json`, `app.js`, `styles.css` jsou nově povinné soubory. GitHub Pages: branch main, /root.
