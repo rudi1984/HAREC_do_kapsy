@@ -6,7 +6,7 @@
 
 ## Spuštění a instalace
 
-- Webová aplikace: <https://rudi1984.github.io/Radioamat-rsk-zkou-ky-/>
+- Webová aplikace: [Spustit aplikaci](https://rudi1984.github.io/HAREC_do_kapsy/)
 - Android (Chrome): otevřete web → nabídka prohlížeče → **Nainstalovat aplikaci** nebo **Přidat na plochu**.
 - Na počítači lze aplikaci otevřít přímo v prohlížeči.
 - Pro offline provoz nejprve aplikaci jednou **kompletně načtěte online**. Potom lze otestovat režim letadlo.
